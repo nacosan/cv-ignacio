@@ -1,0 +1,1 @@
+export { ContactFormTemplate } from "./form.view";

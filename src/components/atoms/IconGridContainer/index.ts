@@ -1,0 +1,1 @@
+export { IconGridComponent } from "./icon-grid-container.view";

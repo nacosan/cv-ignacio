@@ -1,0 +1,1 @@
+export { CVOnlineView } from "./cv-online.view";
